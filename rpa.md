@@ -514,7 +514,7 @@ Once connected to the lab VM, notice that the RPA software is already pre-instal
 
 <br />
 
- ![Alt text](img/chrome.gif)
+      ![Alt text](img/chrome.gif)
 
  <br />
 
