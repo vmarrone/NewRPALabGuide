@@ -498,27 +498,27 @@ A Windows Virtual Machine (VM) is required to complete this lab. The IP address 
 
 Once connected to the lab VM, notice that the RPA software is already pre-installed and accessible from the Desktop. If you don't see the RPA Desktop Design Studio icon, please let your instructor know as you are going to need this to build the RPA automation
 
-<br />
+   <br />
 
       ![Alt text](img/2023-10-02_10-54-22.png)
 
-<br />
+   <br />
 
 46. Before getting started, it is recommended to change the default browser to Chrome. This can be done by typing **Default Browser** (1) in the Windows Search Bar and clicking **Choose a default web browser** (2).
 
-<br />
+   <br />
 
       ![Alt text](img/2023-10-02_10-57-38.png)
 
-<br />
+   <br />
 
 47. Click **Internet Explorer** under **Web browser** and select **Google Chrome**. Then X out of the window.
 
-<br />
+   <br />
 
       ![Alt text](img/chrome.gif)
 
-<br />
+   <br />
 
 ## 5b - Getting Started with RPA Design Studio
 
