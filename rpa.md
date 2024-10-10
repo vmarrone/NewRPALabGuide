@@ -49,7 +49,7 @@ The Badging Application is a web-based application and does not have an API. Age
 
 <br />
 
-4. Type this credentials to authenticate then click Submit:
+4. Type these credentials to authenticate then click Submit:
 
 | Field | value |
    |-------|-------|
