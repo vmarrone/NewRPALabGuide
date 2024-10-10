@@ -500,7 +500,7 @@ Once connected to the lab VM, notice that the RPA software is already pre-instal
 
    <br />
 
-      <img width="230" alt="image" src="https://github.com/user-attachments/assets/53c53681-8a63-4223-a480-582be72e8661">
+      ![Alt text](img/2023-10-02_10-54-22.png)   
       
    <br />
 
