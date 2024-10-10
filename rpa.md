@@ -850,9 +850,6 @@ This should redirect you to the Badge Printing form as shown:
 
 <br />
 
-![Alt text](img/2023-10-02_12-13-08.png)
-
-<br />
 
 80. After capturing all the text fields, hover the mouse over the Submit button then click the click action
 
