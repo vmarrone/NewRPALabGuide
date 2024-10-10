@@ -502,7 +502,6 @@ Once connected to the lab VM, notice that the RPA software is already pre-instal
 
       ![Alt text](img/2023-10-02_10-54-22.png)   
       
-   <br />
 
 46. Before getting started, it is recommended to change the default browser to Chrome. This can be done by typing **Default Browser** (1) in the Windows Search Bar and clicking **Choose a default web browser** (2).
 
