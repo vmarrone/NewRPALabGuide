@@ -500,7 +500,7 @@ Once connected to the lab VM, notice that the RPA software is already pre-instal
 
    <br />
 
-    ![Alt text](img/2023-10-02_10-54-22.png)
+      ![Alt text](img/2023-10-02_10-54-22.png)
 
    <br />
 
