@@ -444,65 +444,65 @@ A Windows Virtual Machine (VM) is required to complete this lab. The IP address 
        ![Alt text](img/2023-10-02_10-42-52.png)
        ![Alt text](img/2023-10-02_10-43-27.png)
 
-    > The **IP Address** is only the value within the **[]** brackets on the Windows Server line.
+ > The **IP Address** is only the value within the **[]** brackets on the Windows Server line.
 
    <br />
 
  38. Double click on the new VM that was added to RDP and then click Continue.
 
-    ![Alt text](img/2023-10-02_10-44-16.png)
+      ![Alt text](img/2023-10-02_10-44-16.png)
 
    <br />
     
 
  39. Enter the Windows Server login credentials provided during registration under **Username** (1) and **Password** (2) and then click **Continue** (3).
 
-    ![Alt text](img/2023-10-02_10-47-21.png)
+      ![Alt text](img/2023-10-02_10-47-21.png)
 
-    > Click **Show Password** to ensure the entered password is correct.
+ > Click **Show Password** to ensure the entered password is correct.
 
-<br />
+   <br />
     
  40. Click **Continue** once again to connect to the VM. After connecting to the VM, skip to **Step 11** to finish the initial set up.
 
-    ![Alt text](img/2023-10-02_10-47-51.png)
+      ![Alt text](img/2023-10-02_10-47-51.png)
 
-    <br />
+   <br />
 
-    <br />
+   <br />
 
  41. **If using a Windows laptop**, open Remote Desktop Protocol (RDP). Then copy the **IP address** from the registration page and enter it for **Computer** (1) and click **Connect** (2).
 
-    ![Alt text](img/2023-10-02_10-48-30.png)
+      ![Alt text](img/2023-10-02_10-48-30.png)
 
-    ![Alt text](img/2023-10-02_10-49-01.png)
-    > The **IP Address** is only the value within the **[]** brackets on the Windows Server line.
+      ![Alt text](img/2023-10-02_10-49-01.png)
+ > The **IP Address** is only the value within the **[]** brackets on the Windows Server line.
 
  42. Click **More choices**.
 
-    ![Alt text](img/2023-10-02_10-49-23.png)
+      ![Alt text](img/2023-10-02_10-49-23.png)
 
  43. Click **Use a different account**.
 
-    ![Alt text](img/2023-10-02_10-49-51.png)
+      ![Alt text](img/2023-10-02_10-49-51.png)
 
  44. Type **Administrator** for Username (1) and the **lab password** for Password (2). Then click **OK** (3).
 
-    ![Alt text](img/2023-10-02_10-50-20.png)
+      ![Alt text](img/2023-10-02_10-50-20.png)
 
  45. Click **Yes** to confirm connectivity to the VM.
 
-    ![Alt text](img/2023-10-02_10-50-43.png)
+      ![Alt text](img/2023-10-02_10-50-43.png)
 
-    <br />
+   <br />
 
 Once connected to the lab VM, notice that the RPA software is already pre-installed and accessible from the Desktop. If you don't see the RPA Desktop Design Studio icon, please let your instructor know as you are going to need this to build the RPA automation
 
-<br />
+   <br />
 
-![Alt text](img/2023-10-02_10-54-22.png)
+    ![Alt text](img/2023-10-02_10-54-22.png)
 
-<br />
+   <br />
 
 46. Before getting started, it is recommended to change the default browser to Chrome. This can be done by typing **Default Browser** (1) in the Windows Search Bar and clicking **Choose a default web browser** (2).
 
